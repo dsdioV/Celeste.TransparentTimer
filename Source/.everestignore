@@ -1,0 +1,7 @@
+# Folder ignored by Everest - contains source code and build artifacts
+**/bin/
+**/obj/
+**/*.csproj
+**/*.props
+**/*.targets
+**/*.sln

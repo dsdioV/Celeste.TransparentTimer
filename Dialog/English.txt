@@ -1,0 +1,5 @@
+# ================================== Transparent Timer ==================================
+# Mod Options Menu
+TRANSPARENT_TIMER=              Transparent Timer
+TRANSPARENT_TIMER_ENABLED=      Enabled
+TRANSPARENT_TIMER_OPACITY=      Opacity
