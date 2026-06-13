@@ -1,5 +1,5 @@
 - Name: TransparentTimer
-  Version: 0.1.0
+  Version: 0.2.0
   DLL: Code/TransparentTimer.dll
   Dependencies:
     - Name: EverestCore
